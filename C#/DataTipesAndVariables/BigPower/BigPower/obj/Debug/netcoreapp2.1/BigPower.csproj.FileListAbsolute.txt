@@ -1,0 +1,3 @@
+C:\Users\gagy\source\repos\BigPower\BigPower\obj\Debug\netcoreapp2.1\BigPower.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\BigPower\BigPower\obj\Debug\netcoreapp2.1\BigPower.AssemblyInfoInputs.cache
+C:\Users\gagy\source\repos\BigPower\BigPower\obj\Debug\netcoreapp2.1\BigPower.AssemblyInfo.cs

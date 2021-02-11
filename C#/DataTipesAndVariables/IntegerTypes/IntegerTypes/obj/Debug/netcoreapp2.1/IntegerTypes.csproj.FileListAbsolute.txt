@@ -1,0 +1,11 @@
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\obj\Debug\netcoreapp2.1\IntegerTypes.csprojAssemblyReference.cache
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\obj\Debug\netcoreapp2.1\IntegerTypes.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\obj\Debug\netcoreapp2.1\IntegerTypes.AssemblyInfoInputs.cache
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\obj\Debug\netcoreapp2.1\IntegerTypes.AssemblyInfo.cs
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\bin\Debug\netcoreapp2.1\IntegerTypes.deps.json
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\bin\Debug\netcoreapp2.1\IntegerTypes.runtimeconfig.json
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\bin\Debug\netcoreapp2.1\IntegerTypes.runtimeconfig.dev.json
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\bin\Debug\netcoreapp2.1\IntegerTypes.dll
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\bin\Debug\netcoreapp2.1\IntegerTypes.pdb
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\obj\Debug\netcoreapp2.1\IntegerTypes.dll
+C:\Users\gagy\source\repos\IntegerTypes\IntegerTypes\obj\Debug\netcoreapp2.1\IntegerTypes.pdb

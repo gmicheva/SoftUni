@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYYX2AJKhfFUn7auxZW59a9ZAIW2U9+TWn8wURu7zUeEVXw1ZnsBELJPea6Z6Whu0R0QIB8bGXhTZGXi4gEN7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gagy\\source\\repos\\Galia Projects\\repos\\IntegerTypes\\IntegerTypes\\IntegerTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gagy\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\gagy\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\gagy\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\gagy\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\gagy\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\gagy\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\gagy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
