@@ -9,25 +9,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeOut", "TimeOut\TimeOut.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Languages", "Languages\Languages.csproj", "{5D958651-7FE4-4BDA-9BC6-99921D32466C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassedOrFailed", "StudentInformation\PassedOrFailed.csproj", "{E6A1C5D8-901A-4E56-9535-EE1FFB95967E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PassedOrFailed", "StudentInformation\PassedOrFailed.csproj", "{E6A1C5D8-901A-4E56-9535-EE1FFB95967E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthPrinter", "MonthPrinter\MonthPrinter.csproj", "{08BCFE46-7ABC-4398-9BA8-E0F11C371E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonthPrinter", "MonthPrinter\MonthPrinter.csproj", "{08BCFE46-7ABC-4398-9BA8-E0F11C371E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatrePromotions", "TheatrePromotions\TheatrePromotions.csproj", "{22DEB7FE-AAAF-4A30-B213-21A121F9AAA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheatrePromotions", "TheatrePromotions\TheatrePromotions.csproj", "{22DEB7FE-AAAF-4A30-B213-21A121F9AAA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ages", "Ages\Ages.csproj", "{E2FD0022-AFB8-487F-8BF5-FC22F60CFD87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ages", "Ages\Ages.csproj", "{E2FD0022-AFB8-487F-8BF5-FC22F60CFD87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divison", "Divison\Divison.csproj", "{4B560B60-8B3E-4415-A2CF-0F90744BCDBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divison", "Divison\Divison.csproj", "{4B560B60-8B3E-4415-A2CF-0F90744BCDBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintAndSum", "Vacation\PrintAndSum.csproj", "{3B29B635-93C1-46EA-A948-530658676D1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintAndSum", "Vacation\PrintAndSum.csproj", "{3B29B635-93C1-46EA-A948-530658676D1E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{4A8E36C8-E8EB-4511-8B37-9824C41697B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginReverseAString", "LoginReverseAString\LoginReverseAString.csproj", "{23EE3E47-19F1-4A94-B3E1-7F31F21DD2CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginReverseAString", "LoginReverseAString\LoginReverseAString.csproj", "{23EE3E47-19F1-4A94-B3E1-7F31F21DD2CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{0F05F643-3032-4BC7-8FA6-CEBF09761E39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrongNumber", "StrongNumber\StrongNumber.csproj", "{0F05F643-3032-4BC7-8FA6-CEBF09761E39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{076CAC53-A8A7-45E0-A507-A1D07D97DE99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendingMachine", "VendingMachine\VendingMachine.csproj", "{076CAC53-A8A7-45E0-A507-A1D07D97DE99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleOfNumbers", "TriangleOfNumbers\TriangleOfNumbers.csproj", "{82E9B323-E418-4B04-862E-A04286973662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadawanEquipment", "PadawanEquipment\PadawanEquipment.csproj", "{BE99EB3C-821B-45E6-8B3B-96A649B03A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageExpenses", "RageExpenses\RageExpenses.csproj", "{EAEB0677-0B3E-4197-BF4F-CD10C9E5E561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{076CAC53-A8A7-45E0-A507-A1D07D97DE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{076CAC53-A8A7-45E0-A507-A1D07D97DE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{076CAC53-A8A7-45E0-A507-A1D07D97DE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E9B323-E418-4B04-862E-A04286973662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E9B323-E418-4B04-862E-A04286973662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E9B323-E418-4B04-862E-A04286973662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E9B323-E418-4B04-862E-A04286973662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE99EB3C-821B-45E6-8B3B-96A649B03A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE99EB3C-821B-45E6-8B3B-96A649B03A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE99EB3C-821B-45E6-8B3B-96A649B03A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE99EB3C-821B-45E6-8B3B-96A649B03A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEB0677-0B3E-4197-BF4F-CD10C9E5E561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEB0677-0B3E-4197-BF4F-CD10C9E5E561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEB0677-0B3E-4197-BF4F-CD10C9E5E561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEB0677-0B3E-4197-BF4F-CD10C9E5E561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
