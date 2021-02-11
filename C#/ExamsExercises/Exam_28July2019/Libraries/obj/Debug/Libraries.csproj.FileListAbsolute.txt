@@ -1,0 +1,7 @@
+C:\Users\gagy\source\repos\exam2\Libraries\bin\Debug\Libraries.exe.config
+C:\Users\gagy\source\repos\exam2\Libraries\bin\Debug\Libraries.exe
+C:\Users\gagy\source\repos\exam2\Libraries\bin\Debug\Libraries.pdb
+C:\Users\gagy\source\repos\exam2\Libraries\obj\Debug\Libraries.csprojAssemblyReference.cache
+C:\Users\gagy\source\repos\exam2\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\exam2\Libraries\obj\Debug\Libraries.exe
+C:\Users\gagy\source\repos\exam2\Libraries\obj\Debug\Libraries.pdb

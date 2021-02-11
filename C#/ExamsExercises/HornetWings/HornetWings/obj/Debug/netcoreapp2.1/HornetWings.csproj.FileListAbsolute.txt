@@ -1,0 +1,11 @@
+C:\Users\gagy\source\repos\HornetWings\HornetWings\bin\Debug\netcoreapp2.1\HornetWings.deps.json
+C:\Users\gagy\source\repos\HornetWings\HornetWings\bin\Debug\netcoreapp2.1\HornetWings.runtimeconfig.json
+C:\Users\gagy\source\repos\HornetWings\HornetWings\bin\Debug\netcoreapp2.1\HornetWings.runtimeconfig.dev.json
+C:\Users\gagy\source\repos\HornetWings\HornetWings\bin\Debug\netcoreapp2.1\HornetWings.dll
+C:\Users\gagy\source\repos\HornetWings\HornetWings\bin\Debug\netcoreapp2.1\HornetWings.pdb
+C:\Users\gagy\source\repos\HornetWings\HornetWings\obj\Debug\netcoreapp2.1\HornetWings.csprojAssemblyReference.cache
+C:\Users\gagy\source\repos\HornetWings\HornetWings\obj\Debug\netcoreapp2.1\HornetWings.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\HornetWings\HornetWings\obj\Debug\netcoreapp2.1\HornetWings.AssemblyInfoInputs.cache
+C:\Users\gagy\source\repos\HornetWings\HornetWings\obj\Debug\netcoreapp2.1\HornetWings.AssemblyInfo.cs
+C:\Users\gagy\source\repos\HornetWings\HornetWings\obj\Debug\netcoreapp2.1\HornetWings.dll
+C:\Users\gagy\source\repos\HornetWings\HornetWings\obj\Debug\netcoreapp2.1\HornetWings.pdb

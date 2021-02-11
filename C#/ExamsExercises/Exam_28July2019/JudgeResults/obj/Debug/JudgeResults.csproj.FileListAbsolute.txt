@@ -1,0 +1,7 @@
+C:\Users\gagy\source\repos\exam2\JudgeResults\obj\Debug\JudgeResults.csprojAssemblyReference.cache
+C:\Users\gagy\source\repos\exam2\JudgeResults\obj\Debug\JudgeResults.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\exam2\JudgeResults\bin\Debug\JudgeResults.exe.config
+C:\Users\gagy\source\repos\exam2\JudgeResults\bin\Debug\JudgeResults.exe
+C:\Users\gagy\source\repos\exam2\JudgeResults\bin\Debug\JudgeResults.pdb
+C:\Users\gagy\source\repos\exam2\JudgeResults\obj\Debug\JudgeResults.exe
+C:\Users\gagy\source\repos\exam2\JudgeResults\obj\Debug\JudgeResults.pdb

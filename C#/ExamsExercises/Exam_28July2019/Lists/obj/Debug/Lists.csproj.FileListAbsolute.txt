@@ -1,0 +1,7 @@
+C:\Users\gagy\source\repos\exam2\Lists\bin\Debug\Lists.exe.config
+C:\Users\gagy\source\repos\exam2\Lists\bin\Debug\Lists.exe
+C:\Users\gagy\source\repos\exam2\Lists\bin\Debug\Lists.pdb
+C:\Users\gagy\source\repos\exam2\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\gagy\source\repos\exam2\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\exam2\Lists\obj\Debug\Lists.exe
+C:\Users\gagy\source\repos\exam2\Lists\obj\Debug\Lists.pdb

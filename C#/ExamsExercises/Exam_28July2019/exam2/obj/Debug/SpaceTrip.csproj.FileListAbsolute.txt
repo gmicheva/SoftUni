@@ -1,0 +1,7 @@
+C:\Users\gagy\source\repos\exam2\exam2\bin\Debug\exam2.exe.config
+C:\Users\gagy\source\repos\exam2\exam2\bin\Debug\exam2.exe
+C:\Users\gagy\source\repos\exam2\exam2\bin\Debug\exam2.pdb
+C:\Users\gagy\source\repos\exam2\exam2\obj\Debug\SpaceTrip.csprojAssemblyReference.cache
+C:\Users\gagy\source\repos\exam2\exam2\obj\Debug\SpaceTrip.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\exam2\exam2\obj\Debug\exam2.exe
+C:\Users\gagy\source\repos\exam2\exam2\obj\Debug\exam2.pdb
