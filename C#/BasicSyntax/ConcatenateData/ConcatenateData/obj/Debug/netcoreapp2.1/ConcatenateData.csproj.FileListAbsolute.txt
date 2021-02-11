@@ -1,0 +1,11 @@
+D:\Proraming C#\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.deps.json
+D:\Proraming C#\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.runtimeconfig.json
+D:\Proraming C#\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.runtimeconfig.dev.json
+D:\Proraming C#\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.dll
+D:\Proraming C#\ConcatenateData\ConcatenateData\bin\Debug\netcoreapp2.1\ConcatenateData.pdb
+D:\Proraming C#\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.csprojAssemblyReference.cache
+D:\Proraming C#\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.csproj.CoreCompileInputs.cache
+D:\Proraming C#\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.AssemblyInfoInputs.cache
+D:\Proraming C#\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.AssemblyInfo.cs
+D:\Proraming C#\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.dll
+D:\Proraming C#\ConcatenateData\ConcatenateData\obj\Debug\netcoreapp2.1\ConcatenateData.pdb

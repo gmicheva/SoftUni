@@ -1,0 +1,11 @@
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\bin\Debug\netcoreapp2.1\TrapezoidArea.deps.json
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\bin\Debug\netcoreapp2.1\TrapezoidArea.runtimeconfig.json
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\bin\Debug\netcoreapp2.1\TrapezoidArea.runtimeconfig.dev.json
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\bin\Debug\netcoreapp2.1\TrapezoidArea.dll
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\bin\Debug\netcoreapp2.1\TrapezoidArea.pdb
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\obj\Debug\netcoreapp2.1\TrapezoidArea.csprojAssemblyReference.cache
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\obj\Debug\netcoreapp2.1\TrapezoidArea.csproj.CoreCompileInputs.cache
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\obj\Debug\netcoreapp2.1\TrapezoidArea.AssemblyInfoInputs.cache
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\obj\Debug\netcoreapp2.1\TrapezoidArea.AssemblyInfo.cs
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\obj\Debug\netcoreapp2.1\TrapezoidArea.dll
+D:\Proraming C#\TrapezoidArea\TrapezoidArea\obj\Debug\netcoreapp2.1\TrapezoidArea.pdb

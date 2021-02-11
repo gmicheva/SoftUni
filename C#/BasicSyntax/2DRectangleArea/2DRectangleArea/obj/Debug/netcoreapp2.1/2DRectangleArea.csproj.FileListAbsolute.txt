@@ -1,0 +1,10 @@
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\obj\Debug\netcoreapp2.1\2DRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\obj\Debug\netcoreapp2.1\2DRectangleArea.AssemblyInfoInputs.cache
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\obj\Debug\netcoreapp2.1\2DRectangleArea.AssemblyInfo.cs
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\bin\Debug\netcoreapp2.1\2DRectangleArea.deps.json
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\bin\Debug\netcoreapp2.1\2DRectangleArea.runtimeconfig.json
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\bin\Debug\netcoreapp2.1\2DRectangleArea.runtimeconfig.dev.json
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\bin\Debug\netcoreapp2.1\2DRectangleArea.dll
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\bin\Debug\netcoreapp2.1\2DRectangleArea.pdb
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\obj\Debug\netcoreapp2.1\2DRectangleArea.dll
+C:\Users\gagy\source\repos\2DRectangleArea\2DRectangleArea\obj\Debug\netcoreapp2.1\2DRectangleArea.pdb

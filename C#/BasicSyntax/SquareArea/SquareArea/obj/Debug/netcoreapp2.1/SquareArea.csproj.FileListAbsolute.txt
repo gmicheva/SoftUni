@@ -1,0 +1,10 @@
+D:\Proraming C#\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.deps.json
+D:\Proraming C#\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.runtimeconfig.json
+D:\Proraming C#\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.runtimeconfig.dev.json
+D:\Proraming C#\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.dll
+D:\Proraming C#\SquareArea\SquareArea\bin\Debug\netcoreapp2.1\SquareArea.pdb
+D:\Proraming C#\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.csproj.CoreCompileInputs.cache
+D:\Proraming C#\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.AssemblyInfoInputs.cache
+D:\Proraming C#\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.AssemblyInfo.cs
+D:\Proraming C#\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.dll
+D:\Proraming C#\SquareArea\SquareArea\obj\Debug\netcoreapp2.1\SquareArea.pdb

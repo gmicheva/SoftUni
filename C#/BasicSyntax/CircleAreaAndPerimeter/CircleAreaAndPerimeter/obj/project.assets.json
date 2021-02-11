@@ -1,0 +1,247 @@
+m.Net.HttpListener.dll": {},
+          "ref/netcoreapp2.1/System.Net.Mail.dll": {},
+          "ref/netcoreapp2.1/System.Net.NameResolution.dll": {},
+          "ref/netcoreapp2.1/System.Net.NetworkInformation.dll": {},
+          "ref/netcoreapp2.1/System.Net.Ping.dll": {},
+          "ref/netcoreapp2.1/System.Net.Primitives.dll": {},
+          "ref/netcoreapp2.1/System.Net.Requests.dll": {},
+          "ref/netcoreapp2.1/System.Net.Security.dll": {},
+          "ref/netcoreapp2.1/System.Net.ServicePoint.dll": {},
+          "ref/netcoreapp2.1/System.Net.Sockets.dll": {},
+          "ref/netcoreapp2.1/System.Net.WebClient.dll": {},
+          "ref/netcoreapp2.1/System.Net.WebHeaderCollection.dll": {},
+          "ref/netcoreapp2.1/System.Net.WebProxy.dll": {},
+          "ref/netcoreapp2.1/System.Net.WebSockets.Client.dll": {},
+          "ref/netcoreapp2.1/System.Net.WebSockets.dll": {},
+          "ref/netcoreapp2.1/System.Net.dll": {},
+          "ref/netcoreapp2.1/System.Numerics.Vectors.dll": {},
+          "ref/netcoreapp2.1/System.Numerics.dll": {},
+          "ref/netcoreapp2.1/System.ObjectModel.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.DispatchProxy.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.Emit.ILGeneration.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.Emit.Lightweight.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.Emit.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.Extensions.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.Metadata.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.Primitives.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.TypeExtensions.dll": {},
+          "ref/netcoreapp2.1/System.Reflection.dll": {},
+          "ref/netcoreapp2.1/System.Resources.Reader.dll": {},
+          "ref/netcoreapp2.1/System.Resources.ResourceManager.dll": {},
+          "ref/netcoreapp2.1/System.Resources.Writer.dll": {},
+          "ref/netcoreapp2.1/System.Runtime.CompilerServices.VisualC.dll": {},
+          "ref/netcoreapp2.1/System.Runtime.Extensions.dll": {},
+          "ref/netcoreapp2.1/System.Runtime.Handles.dll": {},
+          "ref/netcoreapp2.1/System.Runtime.InteropServices.RuntimeInformation.dll": {},
+          "ref/netcoreapp2.1/System.Runtime.InteropServices.WindowsRuntime.dll": {},
+          "ref/netcoreapp2.1/System.Runtime.InteropServices.dll": {},
+          "ref/netcoreapp2.1/System.Runtime.dll": {},
+          "ref/netcoreapp2.1/System.dll": {},
+          "ref/netcoreapp2.1/mscorlib.dll": {},
+          "ref/netcoreapp2.1/netstandard.dll": {}
+        },
+        "build": {
+          "build/netcoreapp2.1/Microsoft.NETCore.App.props": {},
+          "build/netcoreapp2.1/Microsoft.NETCore.App.targets": {}
+        }
+      },
+      "Microsoft.NETCore.DotNetAppHost/2.1.0": {
+        "type": "package"
+      },
+      "Microsoft.NETCore.DotNetHostPolicy/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.DotNetHostResolver": "2.1.0"
+        }
+      },
+      "Microsoft.NETCore.DotNetHostResolver/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.DotNetAppHost": "2.1.0"
+        }
+      },
+      "Microsoft.NETCore.Platforms/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.NETCore.Targets/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        },
+        "build": {
+          "build/netstandard2.0/NETStandard.Library.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.NETCore.App/2.1.0": {
+      "sha512": "JNHhG+j5eIhG26+H721IDmwswGUznTwwSuJMFe/08h0X2YarHvA15sVAvUkA/2Sp3W0ENNm48t+J7KTPRqEpfA==",
+      "type": "package",
+      "path": "microsoft.netcore.app/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "Microsoft.NETCore.App.versions.txt",
+        "THIRD-PARTY-NOTICES.TXT",
+        "build/netcoreapp2.1/Microsoft.NETCore.App.PlatformManifest.txt",
+        "build/netcoreapp2.1/Microsoft.NETCore.App.props",
+        "build/netcoreapp2.1/Microsoft.NETCore.App.targets",
+        "microsoft.netcore.app.2.1.0.nupkg.sha512",
+        "microsoft.netcore.app.nuspec",
+        "ref/netcoreapp/_._",
+        "ref/netcoreapp2.1/Microsoft.CSharp.dll",
+        "ref/netcoreapp2.1/Microsoft.CSharp.xml",
+        "ref/netcoreapp2.1/Microsoft.VisualBasic.dll",
+        "ref/netcoreapp2.1/Microsoft.VisualBasic.xml",
+        "ref/netcoreapp2.1/Microsoft.Win32.Primitives.dll",
+        "ref/netcoreapp2.1/Microsoft.Win32.Primitives.xml",
+        "ref/netcoreapp2.1/System.AppContext.dll",
+        "ref/netcoreapp2.1/System.Buffers.dll",
+        "ref/netcoreapp2.1/System.Buffers.xml",
+        "ref/netcoreapp2.1/System.Collections.Concurrent.dll",
+        "ref/netcoreapp2.1/System.Collections.Concurrent.xml",
+        "ref/netcoreapp2.1/System.Collections.Immutable.dll",
+        "ref/netcoreapp2.1/System.Collections.Immutable.xml",
+        "ref/netcoreapp2.1/System.Collections.NonGeneric.dll",
+        "ref/netcoreapp2.1/System.Collections.NonGeneric.xml",
+        "ref/netcoreapp2.1/System.Collections.Specialized.dll",
+        "ref/netcoreapp2.1/System.Collections.Specialized.xml",
+        "ref/netcoreapp2.1/System.Collections.dll",
+        "ref/netcoreapp2.1/System.Collections.xml",
+        "ref/netcoreapp2.1/System.ComponentModel.Annotations.dll",
+        "ref/netcoreapp2.1/System.ComponentModel.Annotations.xml",
+        "ref/netcoreapp2.1/System.ComponentModel.DataAnnotations.dll",
+        "ref/netcoreapp2.1/System.ComponentModel.EventBasedAsync.dll",
+        "ref/netcoreapp2.1/System.ComponentModel.EventBasedAsync.xml",
+        "ref/netcoreapp2.1/System.ComponentModel.Primitives.dll",
+        "ref/netcoreapp2.1/System.ComponentModel.Primitives.xml",
+        "ref/netcoreapp2.1/System.ComponentModel.TypeConverter.dll",
+        "ref/netcoreapp2.1/System.ComponentModel.TypeConverter.xml",
+        "ref/netcoreapp2.1/System.ComponentModel.dll",
+        "ref/netcoreapp2.1/System.ComponentModel.xml",
+        "ref/netcoreapp2.1/System.Configuration.dll",
+        "ref/netcoreapp2.1/System.Console.dll",
+        "ref/netcoreapp2.1/System.Console.xml",
+        "ref/netcoreapp2.1/System.Core.dll",
+        "ref/netcoreapp2.1/System.Data.Common.dll",
+        "ref/netcoreapp2.1/System.Data.Common.xml",
+        "ref/netcoreapp2.1/System.Data.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.Contracts.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.Contracts.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.Debug.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.Debug.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.DiagnosticSource.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.DiagnosticSource.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.FileVersionInfo.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.FileVersionInfo.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.Process.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.Process.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.StackTrace.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.StackTrace.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.TextWriterTraceListener.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.TextWriterTraceListener.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.Tools.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.Tools.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.TraceSource.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.TraceSource.xml",
+        "ref/netcoreapp2.1/System.Diagnostics.Tracing.dll",
+        "ref/netcoreapp2.1/System.Diagnostics.Tracing.xml",
+        "ref/netcoreapp2.1/System.Drawing.Primitives.dll",
+        "ref/netcoreapp2.1/System.Drawing.Primitives.xml",
+        "ref/netcoreapp2.1/System.Drawing.dll",
+        "ref/netcoreapp2.1/System.Dynamic.Runtime.dll",
+        "ref/netcoreapp2.1/System.Globalization.Calendars.dll",
+        "ref/netcoreapp2.1/System.Globalization.Extensions.dll",
+        "ref/netcoreapp2.1/System.Globalization.dll",
+        "ref/netcoreapp2.1/System.IO.Compression.Brotli.dll",
+        "ref/netcoreapp2.1/System.IO.Compression.FileSystem.dll",
+        "ref/netcoreapp2.1/System.IO.Compression.ZipFile.dll",
+        "ref/netcoreapp2.1/System.IO.Compression.ZipFile.xml",
+        "ref/netcoreapp2.1/System.IO.Compression.dll",
+        "ref/netcoreapp2.1/System.IO.Compression.xml",
+        "ref/netcoreapp2.1/System.IO.FileSystem.DriveInfo.dll",
+        "ref/netcoreapp2.1/System.IO.FileSystem.DriveInfo.xml",
+        "ref/netcoreapp2.1/System.IO.FileSystem.Primitives.dll",
+        "ref/netcoreapp2.1/System.IO.FileSystem.Watcher.dll",
+        "ref/netcoreapp2.1/System.IO.FileSystem.Watcher.xml",
+        "ref/netcoreapp2.1/System.IO.FileSystem.dll",
+        "ref/netcoreapp2.1/System.IO.FileSystem.xml",
+        "ref/netcoreapp2.1/System.IO.IsolatedStorage.dll",
+        "ref/netcoreapp2.1/System.IO.IsolatedStorage.xml",
+        "ref/netcoreapp2.1/System.IO.MemoryMappedFiles.dll",
+        "ref/netcoreapp2.1/System.IO.MemoryMappedFiles.xml",
+        "ref/netcoreapp2.1/System.IO.Pipes.dll",
+        "ref/netcoreapp2.1/System.IO.Pipes.xml",
+        "ref/netcoreapp2.1/System.IO.UnmanagedMemoryStream.dll",
+        "ref/netcoreapp2.1/System.IO.dll",
+        "ref/netcoreapp2.1/System.Linq.Expressions.dll",
+        "ref/netcoreapp2.1/System.Linq.Expressions.xml",
+        "ref/netcoreapp2.1/System.Linq.Parallel.dll",
+        "ref/netcoreapp2.1/System.Linq.Parallel.xml",
+        "ref/netcoreapp2.1/System.Linq.Queryable.dll",
+        "ref/netcoreapp2.1/System.Linq.Queryable.xml",
+        "ref/netcoreapp2.1/System.Linq.dll",
+        "ref/netcoreapp2.1/System.Linq.xml",
+        "ref/netcoreapp2.1/System.Memory.dll",
+        "ref/netcoreapp2.1/System.Memory.xml",
+        "ref/netcoreapp2.1/System.Net.Http.dll",
+        "ref/netcoreapp2.1/System.Net.Http.xml",
+        "ref/netcoreapp2.1/System.Net.HttpListener.dll",
+        "ref/netcoreapp2.1/System.Net.HttpListener.xml",
+        "ref/netcoreapp2.1/System.Net.Mail.dll",
+        "ref/netcoreapp2.1/System.Net.Mail.xml",
+        "ref/netcoreapp2.1/System.Net.NameResolution.dll",
+        "ref/netcoreapp2.1/System.Net.NameResolution.xml",
+        "ref/netcoreapp2.1/System.Net.NetworkInformation.dll",
+        "ref/netcoreapp2.1/System.Net.NetworkInformation.xml",
+        "ref/netcoreapp2.1/System.Net.Ping.dll",
+        "ref/netcoreapp2.1/System.Net.Ping.xml",
+        "ref/netcoreapp2.1/System.Net.Primitives.dll",
+        "ref/netcoreapp2.1/System.Net.Primitives.xml",
+        "ref/netcoreapp2.1/System.Net.Requests.dll",
+        "ref/netcoreapp2.1/System.Net.Requests.xml",
+        "ref/netcoreapp2.1/System.Net.Security.dll",
+        "ref/netcoreapp2.1/System.Net.Security.xml",
+        "ref/netcoreapp2.1/System.Net.ServicePoint.dll",
+        "ref/netcoreapp2.1/System.Net.ServicePoint.xml",
+        "ref/netcoreapp2.1/System.Net.Sockets.dll",
+        "ref/netcoreapp2.1/System.Net.Sockets.xml",
+        "ref/netcoreapp2.1/System.Net.WebClient.dll",
+        "ref/netcoreapp2.1/System.Net.WebClient.xml",
+        "ref/netcoreapp2.1/System.Net.WebHeaderCollection.dll",
+        "ref/netcoreapp2.1/System.Net.WebHeaderCollection.xml",
+        "ref/netcoreapp2.1/System.Net.WebProxy.dll",
+        "ref/netcoreapp2.1/System.Net.WebProxy.xml",
+        "ref/netcoreapp2.1/System.Net.WebSockets.Client.dll",
+        "ref/netcoreapp2.1/System.Net.WebSockets.Client.xml",
+        "ref/netcoreapp2.1/System.Net.WebSockets.dll",
+        "ref/netcoreapp2.1/System.Net.WebSockets.xml",
+        "ref/netcoreapp2.1/System.Net.dll",
+        "ref/netcoreapp2ĞÏà¡±á                >  şÿ	                               şÿÿÿ       ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR o o t   E n t r y                                               ÿÿÿÿÿÿÿÿ                               `;‚Àk ×$   À      P r o j I n f o E x                                               ÿÿÿÿÿÿÿÿÿÿÿÿ                                    j          P r o j E x p l o r e r S t a t e                               $ ÿÿÿÿÿÿÿÿÿÿÿÿ                                       Ø      O u t l i n i n g S t a t e D i r                               $    &   ÿÿÿÿ                                    O   @         ıÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşÿÿÿ   ÿÿÿÿşÿÿÿ   	   ÿÿÿÿ   
+            ÿÿÿÿ   ÿÿÿÿÿÿÿÿÿÿÿÿ.         şÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ%   &   '   (   )   *   +      ÿÿÿÿÿÿÿÿ/      ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR o o t   E n t r y                                               ÿÿÿÿÿÿÿÿ                                '•Àk ×$   €      P r o j I n f o E x                                               ÿÿÿÿÿÿÿÿÿÿÿÿ                                    m          P r o j E x p l o r e r S t a t e                               $ ÿÿÿÿÿÿÿÿÿÿÿÿ                                       Ø      O u t l i n i n g S t a t e D i r                               $    &   ÿÿÿÿ                                    O   @      ÿÿÿÿÿÿÿÿ   ıÿÿÿşÿÿÿ   ÿÿÿÿÿÿÿÿşÿÿÿÿÿÿÿ            
+         ÿÿÿÿşÿÿÿ   ÿÿÿÿÿÿÿÿÿÿÿÿ.         ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ%   &   '   (   )   *   +      ÿÿÿÿÿÿÿÿ/      ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿ   şÿÿÿşÿÿÿşÿÿÿşÿÿÿ   şÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿ                     şÿÿÿşÿÿÿ       !   "   #   $   %   &   '   (   )   şÿÿÿ+   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   şÿÿÿA   B   şÿÿÿşÿÿÿşÿÿÿşÿÿÿG   H   d   şÿÿÿşÿÿÿL   M   şÿÿÿşÿÿÿP   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a   b   c   şÿÿÿe   f   şÿÿÿh   i   şÿÿÿk   l   şÿÿÿşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿB o o k m a r k S t a t e                                              ÿÿÿÿ                                    N   (       T a s k L i s t S h o r t c u t s                               $       ÿÿÿÿ                                    E          V s T o o l b o x S e r v i c e                                 "       ÿÿÿÿ                                    D          E x t e r n a l F i l e s P r o j e c t C o n t e n t s         : %   ,   ÿÿÿÿ                                    @   ˜       şÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿ   şÿÿÿşÿÿÿşÿÿÿşÿÿÿ   şÿÿÿşÿÿÿşÿÿÿşÿÿÿşÿÿÿ                     şÿÿÿşÿÿÿ       !   "   #   $   %   &   '   (   )   şÿÿÿ+   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   şÿÿÿA   B   şÿÿÿşÿÿÿşÿÿÿşÿÿÿG   H   d   şÿÿÿşÿÿÿL   M   şÿÿÿşÿÿÿP   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a   b   c   şÿÿÿe   f   şÿÿÿh   i   şÿÿÿşÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿB o o k m a r k S t a t e                                              ÿÿÿÿ                                    N   (       T a s k L i s t S h o r t c u t s                               $       ÿÿÿÿ                                    E          V s T o o l b o x S e r v i c e                                 "       ÿÿÿÿ                                    D          E x t e r n a l F i l e s P r o j e c t C o n t e n t s         : %   ,   ÿÿÿÿ                                    @   ˜       W i n d o w M a n a g e r . C u s t o m T o o l t i p s         :    #   ÿÿÿÿ                                              A p p l i c a t i o n I n s i g h t s                           ( ÿÿÿÿÿÿÿÿÿÿÿÿ                                               O u t l i n i n g S t a t e V 1 6 7 1 0                         * ÿÿÿÿ/   ÿÿÿÿ                                    g   º       O u t l i n i n g S t a t e V 1 6 7 1 1                         *  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    j   º       W i n d o w M a n a g e r . C u s t o m T o o l t i p s         :    #   ÿÿÿÿ                                              A p p l i c a t i o n I n s i g h t s                           (  ÿÿÿÿÿÿÿÿÿÿÿÿ                                               O u t l i n i n g S t a t e V 1 6 7 1 0                         *  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    g   º                                                                           ÿÿÿÿÿÿÿÿÿÿÿÿ                                                S c c P r o v i d e r . S o l u t i o n . L a s t B r a n c h   @ ÿÿÿÿÿÿÿÿÿÿÿÿ                                    şÿÿÿ        [ E d i t o r ]   L a s t   E d i t   L o c a t i o n           8  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    J   *       O u t l i n i n g S t a t e E x 9                               $ ÿÿÿÿ'   ÿÿÿÿ                                    K   °       I L S p y - 2 3 4 1 9 0 A 6 E E 6 6                             &       ÿÿÿÿ                                    C          S e a r c h M o s t R e c e n t Q u e r i e s L i s t           8       ÿÿÿÿ                                    şÿÿÿ        W i n d o w M a n a g e r . V e r t T a b L i s t W i d t h s   @ +   ÿÿÿÿÿÿÿÿ                                              W i n d o w M a n a g e r . W h e n O p e n e d                 2       ÿÿÿÿ                                       (       W i n d o w M a n a g e r . C u s t o m G r o u p N a m e s     >  (   $   ÿÿÿÿ                                              P r o j e c t T r u s t I n f o r m a t i o n                   0  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    şÿÿÿ        D e b u g g e r W a t c h e s                                      ÿÿÿÿÿÿÿÿÿÿÿÿ                                              D e b u g g e r B r e a k p o i n t s                           (  -   .   ÿÿÿÿ                                       ^       D e b u g g e r E x c e p t i o n s                             &        ÿÿÿÿ                                              D e b u g g e r B r e a k p o i n t s W i n d o w               4  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    	          D e b u g g e r W i n s t o r e A p p M o n i t o r             6 ÿÿÿÿÿÿÿÿÿÿÿÿ                                              F A E 0 4 E C 1 - 3 0 1 F - 1 1 D 3 _ P r o j S t a t e         :  ÿÿÿÿÿÿÿÿÿÿÿÿ                                              F A E 0 4 E C 1 - 3 0 1 F - 1 1 D 3 _ T F M C a p s             6       ÿÿÿÿ                                              W i n d o w M a n a g e r . P i n n e d F r a m e s             6  ÿÿÿÿÿÿÿÿÿÿÿÿ                                              T i p P e r s i s t e n c e D e v 1 0 +                         *    
+   ÿÿÿÿ                                    şÿÿÿ        M R U   S o l u t i o n   F i l e s                             &  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    F   w      S c c P r o v i d e r . S o l u t i o n . L o a d C o u n t     >  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    I          C l a s s V i e w C o n t e n t s                               $  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    şÿÿÿ        U n l o a d e d P r o j e c t s                                 "  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    şÿÿÿ        U n l o a d e d P r o j e c t s E x                             & "      ÿÿÿÿ                                    şÿÿÿ        U n l o a d e d P r o j e c t s D e v 1 4                       ,  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    şÿÿÿ        D e b u g g e r E x t e n d e d E x c e p t i o n s             6 *   )   ÿÿÿÿ                                              D e b u g g e r F i n d S o u r c e                             & ÿÿÿÿ   ÿÿÿÿ                                              D e b u g g e r F i n d S y m b o l                             &  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    şÿÿÿ        D e b u g g e r M e m o r y W i n d o w s                       ,  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    
+   T       P r o j e c t T r u s t I n f o r m a t i o n                   0  ÿÿÿÿÿÿÿÿÿÿÿÿ                                    şÿÿÿ        D e b u g g e r W a t c h e s                                      ÿÿÿÿÿÿÿÿÿÿÿÿ                                              D e b u g g e r B r e a k p o i n t s                           ( -   .   ÿÿÿÿ                                       ^       D e b u g g e r E x c e p t i o n s                             &        ÿÿÿÿ                                              n g l e A r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s È@3hˆ’\ç¶sC›Eö¡/¼gÃşûlQg2VÈ:    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      „D : \ G a l i a   P r o j e c t s \ r e p o s \ A s s o c i a t i v e _ A r r a y s \ A - M i n e r - T a s k \ P r o g r a m . c s Ë–O6ÏT€—|q +Œ°5&HP¹Åòæ…M    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿr o g JÙö°ç*qù…íÁa±\öúÅ\/vM    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                $ B o o k m a r k s   V 0 0 1 . 0 1                                ’ D : \ P r o r a m i n g   C # \ C i r c l e A r e a A n d D : \ G a l i a   P r o j e c t s \ r e p o s \ A s s o c i a t i v e _ A r r a y s \ A - M i n e r - T a s k \ P r o g r a m . c s < o p e n >  
+     r a m . c s      V D : \ P r o r a m i  g   C # \ H e l l o   C \ H e l l o   C \ P r o g r a m . c s       Z D : \ P r o r a m i n g   C # \ I n c h T o S m \ I n c XÏ
+     m \ P r o g r a m . c s                                w       w   %UserProfile%\source\repos\2DRectangleArea\2DRectangleArea\Program.cs|{00000000-0000-0000-0000-000000000000}|22,D : \ G a l i a   P r o j e c t s \ r e p o s \ A s s o c i a t i v e _ A r r a y s \ A - M i n e r - T a s k \ P r o g r a m . c s < o p e n >  
+     r a m . c s      V D : \ P r o r a m i  g   C # \ H e l l o   C \ H e l l o   C \ P r o g r a m . c s       Z D : \ P r o r a m i n g   C # \ I n c h T o S m \ I n c XÏ
+     m \ P r o g r a m . c s                                u       w   %UserProfile%\source\repos\2DRectangleArea\2DRectangleArea\Program.cs|{00000000-0000-0000-0000-000000000000}|22,n g l e A r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s È@3hˆ’\ç¶sC›Eö¡/¼gÃşûlQg2VÈ:    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      JÙö°ç*qù…íÁa±ctangleArea\Program.cs '                       ŠC : \ U s e r s \ g a g y \ s o u r c e \ r e p o s \ 2 D R e c t a n g l e A r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s èàW\öúÅ\/vM    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                $ B o o k m a r k s   V 0 0 1 . 0 1                                ’ D : \ P r o r a m i n g   C # \ C i r c l e A r e a A n d r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s   
+   V D : \ P r o r a m i n g   C # \ H e l l o   C \ H e l l o   C \ P r o g r a m . c s      Z D : \ P r o r a m i n g   C # \ I n c h T o S m \ I n c h T o S m \ P r o g r a m . c s        ea\Program.cs|{00000000-0000-0000-0000-000000000000}|0,0|Falses   D:\Galia Projects\repos\Associative_Arrays\A-Miner-Task\Program.cs|{00000000-0000-0000-0000-000000000000}|0,0|False           „D : \ G a l i a   P r o j e c t s \ r e p o s \ 2 D R e c t a 0|Falseu   D:\Galia Projects\repos\2DRectangleArea\2DRectangleAr       Ç}xjıï/ó                                                *         2DRectangleArea\Program.cs                        ŠC : \ U s e r s \ g a g y \ s o u r c e \ r e p o s \ 2 D R e c t a n g l e A r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s èàW\öúÅ\/vM    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                $ B o o k m a r k s   V 0 0 1 . 0 1                                ’ D : \ P r o r a m i n g   C # \ C i r c l e A r e a A n d r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s   
+   V D : \ P r o r a m i n g   C # \ H e l l o   C \ H e l l o   C \ P r o g r a m . c s      Z D : \ P r o r a m i n g   C # \ I n c h T o S m \ I n c h T o S m \ P r o g r a m . c s        ea\Program.cs|{00000000-0000-0000-0000-000000000000}|17,12|Falses   D:\Galia Projects\repos\Associative_Arrays\A-Miner-Task\Program.cs|{00000000-0000-0000-0000-000000000000}|0,0|False         „D : \ G a l i a   P r o j e c t s \ r e p o s \ 2 D R e c t a H i d d e n S l n F o l d e r s                                 "       ÿÿÿÿ                                    şÿÿÿ        B a c k g r o u n d L o a d D a t a                             & ÿÿÿÿÿÿÿÿÿÿÿÿ                                       1       S o l u t i o n C o n t r o l O p t i o n s                     .  ÿÿÿÿÿÿÿÿÿÿÿÿ                                              P r o j e c t s L o a d I n S o l u t i o n O p e n             6 ÿÿÿÿ    ÿÿÿÿ                                              n g l e A r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s È@3hˆ’\ç¶sC›Eö¡/¼gÃşûlQg2VÈ:    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ      JÙö°ç*qù…íÁa±ctangleArea\Program.cs '                       ŠC : \ U s e r s \ g a g y \ s o u r c e \ r e p o s \ 2 D R e c t a n g l e A r e a \ 2 D R e c t a n g l e A r e a \ P r o g r a m . c s èàW\öúÅ\/vM    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ                $ B o o k m a r k s   V 0 0 1 . 0 1                                ’ D : \ P r o r a m i n g   C # \ C i r c l e A r e a A n d m \ T e s t P r o g r a m \ P r o g r a m . c s      n D : \ P r o r a m i n g   C # \ T r a p e z o i d A r e a \ T r a p e z o i d A r e a \ P r o g r a m . c s      V D : \ P r o r a m i n g   C # \ H e l l o   C \ H e l l o   C \ P r o g r a m . c s      Z D : \ P r o r a m i n g 

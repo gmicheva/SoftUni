@@ -1,0 +1,10 @@
+D:\Proraming C#\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.deps.json
+D:\Proraming C#\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.runtimeconfig.json
+D:\Proraming C#\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.runtimeconfig.dev.json
+D:\Proraming C#\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.dll
+D:\Proraming C#\GreetingByName\GreetingByName\bin\Debug\netcoreapp2.1\GreetingByName.pdb
+D:\Proraming C#\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.csproj.CoreCompileInputs.cache
+D:\Proraming C#\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.AssemblyInfoInputs.cache
+D:\Proraming C#\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.AssemblyInfo.cs
+D:\Proraming C#\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.dll
+D:\Proraming C#\GreetingByName\GreetingByName\obj\Debug\netcoreapp2.1\GreetingByName.pdb

@@ -1,0 +1,11 @@
+D:\Proraming C#\Hello C\Hello C\bin\Debug\netcoreapp2.1\Hello C.deps.json
+D:\Proraming C#\Hello C\Hello C\bin\Debug\netcoreapp2.1\Hello C.runtimeconfig.json
+D:\Proraming C#\Hello C\Hello C\bin\Debug\netcoreapp2.1\Hello C.runtimeconfig.dev.json
+D:\Proraming C#\Hello C\Hello C\bin\Debug\netcoreapp2.1\Hello C.dll
+D:\Proraming C#\Hello C\Hello C\bin\Debug\netcoreapp2.1\Hello C.pdb
+D:\Proraming C#\Hello C\Hello C\obj\Debug\netcoreapp2.1\Hello C.csprojAssemblyReference.cache
+D:\Proraming C#\Hello C\Hello C\obj\Debug\netcoreapp2.1\Hello C.csproj.CoreCompileInputs.cache
+D:\Proraming C#\Hello C\Hello C\obj\Debug\netcoreapp2.1\Hello C.AssemblyInfoInputs.cache
+D:\Proraming C#\Hello C\Hello C\obj\Debug\netcoreapp2.1\Hello C.AssemblyInfo.cs
+D:\Proraming C#\Hello C\Hello C\obj\Debug\netcoreapp2.1\Hello C.dll
+D:\Proraming C#\Hello C\Hello C\obj\Debug\netcoreapp2.1\Hello C.pdb

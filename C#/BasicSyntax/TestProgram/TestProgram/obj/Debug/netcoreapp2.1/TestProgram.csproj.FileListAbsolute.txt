@@ -1,0 +1,11 @@
+D:\Proraming C#\TestProgram\TestProgram\bin\Debug\netcoreapp2.1\TestProgram.deps.json
+D:\Proraming C#\TestProgram\TestProgram\bin\Debug\netcoreapp2.1\TestProgram.runtimeconfig.json
+D:\Proraming C#\TestProgram\TestProgram\bin\Debug\netcoreapp2.1\TestProgram.runtimeconfig.dev.json
+D:\Proraming C#\TestProgram\TestProgram\bin\Debug\netcoreapp2.1\TestProgram.dll
+D:\Proraming C#\TestProgram\TestProgram\bin\Debug\netcoreapp2.1\TestProgram.pdb
+D:\Proraming C#\TestProgram\TestProgram\obj\Debug\netcoreapp2.1\TestProgram.csprojAssemblyReference.cache
+D:\Proraming C#\TestProgram\TestProgram\obj\Debug\netcoreapp2.1\TestProgram.csproj.CoreCompileInputs.cache
+D:\Proraming C#\TestProgram\TestProgram\obj\Debug\netcoreapp2.1\TestProgram.AssemblyInfoInputs.cache
+D:\Proraming C#\TestProgram\TestProgram\obj\Debug\netcoreapp2.1\TestProgram.AssemblyInfo.cs
+D:\Proraming C#\TestProgram\TestProgram\obj\Debug\netcoreapp2.1\TestProgram.dll
+D:\Proraming C#\TestProgram\TestProgram\obj\Debug\netcoreapp2.1\TestProgram.pdb

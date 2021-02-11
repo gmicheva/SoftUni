@@ -1,0 +1,10 @@
+D:\Proraming C#\InchToSm\InchToSm\bin\Debug\netcoreapp2.1\InchToSm.deps.json
+D:\Proraming C#\InchToSm\InchToSm\bin\Debug\netcoreapp2.1\InchToSm.runtimeconfig.json
+D:\Proraming C#\InchToSm\InchToSm\bin\Debug\netcoreapp2.1\InchToSm.runtimeconfig.dev.json
+D:\Proraming C#\InchToSm\InchToSm\bin\Debug\netcoreapp2.1\InchToSm.dll
+D:\Proraming C#\InchToSm\InchToSm\bin\Debug\netcoreapp2.1\InchToSm.pdb
+D:\Proraming C#\InchToSm\InchToSm\obj\Debug\netcoreapp2.1\InchToSm.csproj.CoreCompileInputs.cache
+D:\Proraming C#\InchToSm\InchToSm\obj\Debug\netcoreapp2.1\InchToSm.AssemblyInfoInputs.cache
+D:\Proraming C#\InchToSm\InchToSm\obj\Debug\netcoreapp2.1\InchToSm.AssemblyInfo.cs
+D:\Proraming C#\InchToSm\InchToSm\obj\Debug\netcoreapp2.1\InchToSm.dll
+D:\Proraming C#\InchToSm\InchToSm\obj\Debug\netcoreapp2.1\InchToSm.pdb

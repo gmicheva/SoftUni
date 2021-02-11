@@ -1,0 +1,11 @@
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\CircleAreaAndPerimeter.deps.json
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\CircleAreaAndPerimeter.runtimeconfig.json
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\CircleAreaAndPerimeter.runtimeconfig.dev.json
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\CircleAreaAndPerimeter.dll
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\bin\Debug\netcoreapp2.1\CircleAreaAndPerimeter.pdb
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\CircleAreaAndPerimeter.csprojAssemblyReference.cache
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\CircleAreaAndPerimeter.dll
+D:\Proraming C#\CircleAreaAndPerimeter\CircleAreaAndPerimeter\obj\Debug\netcoreapp2.1\CircleAreaAndPerimeter.pdb
